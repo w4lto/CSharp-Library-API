@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MrAli\\source\\repos\\CSharp Library Api\\CSharp Library Api\\CSharp Library Api.csproj",
-      "projectName": "CSharp Library Api",
-      "projectPath": "C:\\Users\\MrAli\\source\\repos\\CSharp Library Api\\CSharp Library Api\\CSharp Library Api.csproj",
+      "projectUniqueName": "C:\\Users\\MrAli\\Documents\\Repository\\Study\\CSharp-Library-API\\CSharp Library Api\\CsharpLibraryApi.csproj",
+      "projectName": "CsharpLibraryApi",
+      "projectPath": "C:\\Users\\MrAli\\Documents\\Repository\\Study\\CSharp-Library-API\\CSharp Library Api\\CsharpLibraryApi.csproj",
       "packagesPath": "C:\\Users\\MrAli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MrAli\\source\\repos\\CSharp Library Api\\CSharp Library Api\\obj\\",
+      "outputPath": "C:\\Users\\MrAli\\Documents\\Repository\\Study\\CSharp-Library-API\\CSharp Library Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MrAli\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MrAli\\source\\repos\\CSharp Library Api\\CSharp Library Api\\CSharp Library Api.csproj": {}
+    "C:\\Users\\MrAli\\Documents\\Repository\\Study\\CSharp-Library-API\\CSharp Library Api\\CSharp Library Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MrAli\\source\\repos\\CSharp Library Api\\CSharp Library Api\\CSharp Library Api.csproj": {
+    "C:\\Users\\MrAli\\Documents\\Repository\\Study\\CSharp-Library-API\\CSharp Library Api\\CSharp Library Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MrAli\\source\\repos\\CSharp Library Api\\CSharp Library Api\\CSharp Library Api.csproj",
+        "projectUniqueName": "C:\\Users\\MrAli\\Documents\\Repository\\Study\\CSharp-Library-API\\CSharp Library Api\\CSharp Library Api.csproj",
         "projectName": "CSharp Library Api",
-        "projectPath": "C:\\Users\\MrAli\\source\\repos\\CSharp Library Api\\CSharp Library Api\\CSharp Library Api.csproj",
+        "projectPath": "C:\\Users\\MrAli\\Documents\\Repository\\Study\\CSharp-Library-API\\CSharp Library Api\\CSharp Library Api.csproj",
         "packagesPath": "C:\\Users\\MrAli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MrAli\\source\\repos\\CSharp Library Api\\CSharp Library Api\\obj\\",
+        "outputPath": "C:\\Users\\MrAli\\Documents\\Repository\\Study\\CSharp-Library-API\\CSharp Library Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MrAli\\AppData\\Roaming\\NuGet\\NuGet.Config",
